@@ -3,6 +3,6 @@ html, body {
   padding: 10;
 }
 canvas {
-  background-color: white;
+  background-color: transparent;
   display: block;
 }
